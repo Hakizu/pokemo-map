@@ -1,0 +1,29 @@
+{
+  "name": "google-api",
+  "version": "1.0.0",
+  "description": "This is an open source project from [DevProjects](http://www.codementor.io/projects). Feedback and questions are welcome!\r Find the project requirements here: [Custom google maps theme](https://www.codementor.io/projects/web/build-a-custom-google-maps-theme-bf8levr6eg)",
+  "main": "script.js",
+  "scripts": {
+    "dev": "parcel index.html",
+    "prod": "parcel build index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hakizu/CustomGoogleMapsMap.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hakizu/CustomGoogleMapsMap/issues"
+  },
+  "homepage": "https://github.com/Hakizu/CustomGoogleMapsMap#readme",
+  "devDependencies": {},
+  "dependencies": {
+    "@googlemaps/js-api-loader": "^1.12.1",
+    "dotenv": "^10.0.0",
+    "glob-parent": "^6.0.0",
+    "normalize-url": "^6.1.0",
+    "parcel-bundler": "^1.12.5"
+  }
+}
