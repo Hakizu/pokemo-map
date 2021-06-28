@@ -9,7 +9,7 @@ The svgs were kindly provided by [@TheArtificial](https://theartificial.github.i
 
 ## Screenshots and demo
 ![Desktop Preview](./Desktop.png)
-![Live version](https://eager-jennings-f8dd05.netlify.app/)
+[Live version](https://eager-jennings-f8dd05.netlify.app/)
 
 ## Tech stack
 html
